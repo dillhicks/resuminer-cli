@@ -70,7 +70,7 @@ class ResumeCustomizer:
 
             completion = self.client.chat.completions.create(
                 extra_headers={
-                    "HTTP-Referer": "https://github.com/    -repo/resume-customizer",
+                    "HTTP-Referer": "https://github.com/dillhicks/resuminer-cli",
                     "X-Title": "Resume Customizer CLI",
                 },
                 model="openai/gpt-5-mini",  
