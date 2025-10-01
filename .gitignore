@@ -1,0 +1,12 @@
+*.pdf
+*.yml
+posting.txt
+*.env
+*typ
+*.pyc
+__pycache__/
+ai_engineer_resume/
+base_resume/
+mlds_resume/
+sweml_resume/
+.DS_Store
